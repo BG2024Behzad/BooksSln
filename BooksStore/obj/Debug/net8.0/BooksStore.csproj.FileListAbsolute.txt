@@ -1,0 +1,9 @@
+F:\ANC Projects\BooksSln\BooksStore\obj\Debug\net8.0\BooksStore.csproj.AssemblyReference.cache
+F:\ANC Projects\BooksSln\BooksStore\obj\Debug\net8.0\BooksStore.GeneratedMSBuildEditorConfig.editorconfig
+F:\ANC Projects\BooksSln\BooksStore\obj\Debug\net8.0\BooksStore.AssemblyInfoInputs.cache
+F:\ANC Projects\BooksSln\BooksStore\obj\Debug\net8.0\BooksStore.AssemblyInfo.cs
+F:\ANC Projects\BooksSln\BooksStore\obj\Debug\net8.0\BooksStore.csproj.CoreCompileInputs.cache
+F:\ANC Projects\BooksSln\BooksStore\obj\Debug\net8.0\BooksStore.MvcApplicationPartsAssemblyInfo.cache
+F:\ANC Projects\BooksSln\BooksStore\obj\Debug\net8.0\BooksStore.RazorAssemblyInfo.cache
+F:\ANC Projects\BooksSln\BooksStore\obj\Debug\net8.0\BooksStore.RazorAssemblyInfo.cs
+F:\ANC Projects\BooksSln\BooksStore\obj\Debug\net8.0\BooksStore.sourcelink.json

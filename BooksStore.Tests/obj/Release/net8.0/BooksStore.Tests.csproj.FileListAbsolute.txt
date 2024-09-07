@@ -1,0 +1,7 @@
+F:\ANC Projects\BooksSln\BooksStore.Tests\bin\Release\net8.0\CoverletSourceRootsMapping_BooksStore.Tests
+F:\ANC Projects\BooksSln\BooksStore.Tests\obj\Release\net8.0\BooksStore.Tests.csproj.AssemblyReference.cache
+F:\ANC Projects\BooksSln\BooksStore.Tests\obj\Release\net8.0\BooksStore.Tests.GeneratedMSBuildEditorConfig.editorconfig
+F:\ANC Projects\BooksSln\BooksStore.Tests\obj\Release\net8.0\BooksStore.Tests.AssemblyInfoInputs.cache
+F:\ANC Projects\BooksSln\BooksStore.Tests\obj\Release\net8.0\BooksStore.Tests.AssemblyInfo.cs
+F:\ANC Projects\BooksSln\BooksStore.Tests\obj\Release\net8.0\BooksStore.Tests.csproj.CoreCompileInputs.cache
+F:\ANC Projects\BooksSln\BooksStore.Tests\obj\Release\net8.0\BooksStore.Tests.sourcelink.json
