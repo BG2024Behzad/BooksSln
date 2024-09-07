@@ -1,6 +1,6 @@
-﻿
+﻿@using BooksStore.Models.ViewModels
 @model ProductsListViewModel
-@foreach (var p in Model?.Products ?? Enumerable.Empty<Product>())
+@foreach (var p in Model?.Products )
 {
     <partial name="ProductSummary" model="p" />
 }

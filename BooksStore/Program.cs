@@ -8,7 +8,7 @@ builder.Services.AddDbContext<StoreDbContext>(opts =>
     opts.UseSqlServer(builder.Configuration["ConnectionStrings:BooksStoreConnection"]);
 });
 builder.Services.AddScoped<IStoreRepository, EFStoreRepository>();
-builder.Services.AddRazorPages();
+//builder.Services.AddRazorPages();
 var app = builder.Build();
 
 //app.MapGet("/", () => "Hello World!");
@@ -16,7 +16,7 @@ app.UseStaticFiles();
 app.MapControllerRoute("Pagination", "Products/Page{productPage}", new { controller = "Home", action = "Index" });
 
 app.MapDefaultControllerRoute();
-app.MapRazorPages();
+//app.MapRazorPages();
 SeedData.EnsurePopulated(app);
 
 app.Run();

@@ -13,12 +13,7 @@ namespace BookStore.Models
             {
                 context.Database.Migrate();
             }
-            //var x = context.Database.GetConnectionString();
-            //
-            //
-            //
-
-
+            
             if (!context.Products.Any())
             {
                 context.Products.AddRange(
